@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Resturant-App",
-    "slug": "Resturant-App",
+    "name": "Restaurant-App",
+    "slug": "Restaurant-App",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/images/icon.png",
-    "scheme": "Resturant-App",
+    "scheme": "Restaurant-App",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
@@ -14,14 +14,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.mahmoudz99.ResturantApp"
+      "bundleIdentifier": "com.mahmoudz99.RestaurantApp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.mahmoudz99.ResturantApp"
+      "package": "com.mahmoudz99.RestaurantApp"
     },
     "web": {
       "bundler": "metro",
